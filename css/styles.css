@@ -1,3 +1,8 @@
+:root {
+  font-size: 1.2vw;
+  width: 100vw;
+  height: 100vh;
+}
 header section div.carousel-item {
   background-color: #fceae8;
 }
@@ -22,4 +27,8 @@ main div h3 {
 }
 #shoes-bg {
   background-color: blue;
+}
+.subscribe-bg {
+  background-color: #fceae8;
+  height: 300px;
 }
